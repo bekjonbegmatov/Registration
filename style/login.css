@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: rgb(53, 94, 207);
+    color: rgb(64, 99, 197);;
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+;
+}
+form{
+    background-color: rgb(219, 215, 215);
+    margin-top: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+h1{
+    text-align: left;
+    margin-top: -6px;
+    margin-right: 400px;
+    margin-left: -13px;
+    border: 2px solid rgb(53, 94, 207);
+    padding-left: 7px;
+    background-color: rgb(53, 94, 207);
+    
+        
+}
+img{
+    width: 45px;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(53, 94, 207);
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+}

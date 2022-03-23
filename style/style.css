@@ -1,0 +1,57 @@
+body{
+    /*background: rgb(165, 19, 215);*/
+    background: linear-gradient(to top, rgba(165, 19, 215, 0.9320974769173087) 0%, rgba(11, 73, 186, 1) 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: "Tw Cen MT";
+    
+}
+
+#form_one{
+    background-color: rgba(207, 206, 202, 0.897);
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 40px;
+    margin-bottom: 300px;
+    
+}
+button{
+    width: 400px;
+    height: 50px;
+    margin: 35px;
+    font-size: 20px;
+}
+#botton_register{
+    border-radius: 20px;
+    background-color: rgb(119, 81, 32);
+}
+#botton_login{
+    border-radius: 20px;
+    background-color: rgb(0, 140, 255);
+    width: 400px;
+    height: 50px;
+    padding-left: 160px;
+    padding-right: 160px;
+    border: 2px solid #E3E3E3 ;
+    border-color: #E3E3E3 #979797 #979797 #E3E3E3;
+    margin-bottom: px;
+    color: black;
+    font-size: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+b{
+    font-size: 70px;
+}
+
+h4{
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+fieldset{
+    margin-bottom: 50px;
+
+}
